@@ -2,7 +2,7 @@ name: build
 
 on:
   push:
-    branches: [ "main", "1656_ci" ]
+    branches: [ "main", "1656_ci", "2_ubuntu_ci_fails" ]
   pull_request:
     branches: [ "main" ]
 
